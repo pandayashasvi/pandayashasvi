@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashasvi pandey
-- 👀 I’m interested in salesforce devlopement.
+- 👀 I’m a senior salesforce devloper.
 - 🌱 I am constant learner.
-- 💞️ I’m looking to work on any new projects.
+- 💞️ I’m looking to work on innovative projects.
 - 📫 Reach me on email pandayyashasvi@gmail.com.
 
 <!---
